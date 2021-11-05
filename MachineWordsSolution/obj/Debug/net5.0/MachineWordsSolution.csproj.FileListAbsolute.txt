@@ -1,0 +1,16 @@
+C:\Users\ekt\source\repos\MachineWordsSolution\MachineWordsSolution\bin\Debug\net5.0\MachineWordsSolution.exe
+C:\Users\ekt\source\repos\MachineWordsSolution\MachineWordsSolution\bin\Debug\net5.0\MachineWordsSolution.deps.json
+C:\Users\ekt\source\repos\MachineWordsSolution\MachineWordsSolution\bin\Debug\net5.0\MachineWordsSolution.runtimeconfig.json
+C:\Users\ekt\source\repos\MachineWordsSolution\MachineWordsSolution\bin\Debug\net5.0\MachineWordsSolution.runtimeconfig.dev.json
+C:\Users\ekt\source\repos\MachineWordsSolution\MachineWordsSolution\bin\Debug\net5.0\MachineWordsSolution.dll
+C:\Users\ekt\source\repos\MachineWordsSolution\MachineWordsSolution\bin\Debug\net5.0\ref\MachineWordsSolution.dll
+C:\Users\ekt\source\repos\MachineWordsSolution\MachineWordsSolution\bin\Debug\net5.0\MachineWordsSolution.pdb
+C:\Users\ekt\source\repos\MachineWordsSolution\MachineWordsSolution\obj\Debug\net5.0\MachineWordsSolution.csproj.AssemblyReference.cache
+C:\Users\ekt\source\repos\MachineWordsSolution\MachineWordsSolution\obj\Debug\net5.0\MachineWordsSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekt\source\repos\MachineWordsSolution\MachineWordsSolution\obj\Debug\net5.0\MachineWordsSolution.AssemblyInfoInputs.cache
+C:\Users\ekt\source\repos\MachineWordsSolution\MachineWordsSolution\obj\Debug\net5.0\MachineWordsSolution.AssemblyInfo.cs
+C:\Users\ekt\source\repos\MachineWordsSolution\MachineWordsSolution\obj\Debug\net5.0\MachineWordsSolution.csproj.CoreCompileInputs.cache
+C:\Users\ekt\source\repos\MachineWordsSolution\MachineWordsSolution\obj\Debug\net5.0\MachineWordsSolution.dll
+C:\Users\ekt\source\repos\MachineWordsSolution\MachineWordsSolution\obj\Debug\net5.0\ref\MachineWordsSolution.dll
+C:\Users\ekt\source\repos\MachineWordsSolution\MachineWordsSolution\obj\Debug\net5.0\MachineWordsSolution.pdb
+C:\Users\ekt\source\repos\MachineWordsSolution\MachineWordsSolution\obj\Debug\net5.0\MachineWordsSolution.genruntimeconfig.cache
